@@ -1,3 +1,4 @@
+import { Link, NavLink } from "react-router-dom";
 import { MessageIcon } from "../../../icons/icons";
 
 interface QuestionCardI {
@@ -9,6 +10,7 @@ interface QuestionCardI {
   hasFooter?: boolean;
   questionText: string;
   answersNumber: number;
+  id: number;
 }
 
 const QuestionCard: React.FC<QuestionCardI> = ({
@@ -20,6 +22,7 @@ const QuestionCard: React.FC<QuestionCardI> = ({
   questionText,
   answersNumber,
   hasFooter = true,
+  id,
 }) => {
   return (
     <div className={`rounded-lg border border-gray-300 ${className}`}>
@@ -50,9 +53,11 @@ const QuestionCard: React.FC<QuestionCardI> = ({
         <p>{questionText}</p>
         {hasFooter && (
           <div className="flex justify-end">
-            <button className="border-green-600 text-green-600 rounded-lg border-2 px-2 py-3 text-xs font-bold mt-4">
-              مشاهده جزییات
-            </button>
+            <Link to={`/${id}`}>
+              <button className="border-green-600 text-green-600 rounded-lg border-2 px-2 py-3 text-xs font-bold mt-4">
+                مشاهده جزییات
+              </button>
+            </Link>
           </div>
         )}
       </div>

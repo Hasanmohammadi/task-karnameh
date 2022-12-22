@@ -9,6 +9,7 @@ interface useFetchDataI {
 const useFetchData = ({ url, method, body }: useFetchDataI) => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
+  const [refetch, setRefetch] = useState(false);
   const [error, setError] = useState(null);
 
   useEffect(() => {
@@ -30,12 +31,15 @@ const useFetchData = ({ url, method, body }: useFetchDataI) => {
           setError(error);
         });
     })();
-  }, []);
+
+    setRefetch(false);
+  }, [refetch]);
 
   return {
     data,
     loading,
     error,
+    setRefetch,
   };
 };
 
