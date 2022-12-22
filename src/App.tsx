@@ -3,7 +3,7 @@ import Question from "./pages/Question";
 
 function App() {
   return (
-    <div className="bg-slate-100 w-screen h-screen px-14">
+    <div className="bg-slate-100 w-screen h-full px-14 pb-14">
       <Question />
     </div>
   );

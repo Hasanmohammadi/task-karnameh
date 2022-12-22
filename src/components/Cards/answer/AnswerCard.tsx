@@ -1,4 +1,4 @@
-import { happyIcons, MessageIcon, unhappyIcons } from "../../../icons/icons";
+import { happyIcons, unhappyIcons } from "../../../icons/icons";
 
 interface AnswerCardI {
   time: string;
