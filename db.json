@@ -12,7 +12,81 @@
         {
           "id": 1,
           "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
+          "name": "Ali2",
+          "title": "لورم ایپسوم یا طرح‌نما ",
+          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
+          "date": "1400-02-15",
+          "hour": "10:52",
+          "feedback": {
+            "negative": 10,
+            "positive": 17
+          }
+        },
+        {
+          "id": 2,
+          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
           "name": "Ali",
+          "title": "لورم ایپسوم یا طرح‌نما ",
+          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
+          "date": "1400-02-15",
+          "hour": "10:52",
+          "feedback": {
+            "negative": 11,
+            "positive": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
+      "name": "Ali",
+      "title": "لورم ایپسوم یا طرح‌نما ",
+      "question_text": "فارش گرفته شده استفاده می نماید، تا از نظر گرافیکی نشانگر چگونگی نوع و اندازه فونت و ظاهر متن باشد. معمولا طراحان گرافیک برای صفحه‌آرایی،",
+      "date": "1400-02-15",
+      "hour": "23:52",
+      "answers": [
+        {
+          "id": 1,
+          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
+          "name": "Ali2",
+          "title": "لورم ایپسوم یا طرح‌نما ",
+          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
+          "date": "1400-02-15",
+          "hour": "10:52",
+          "feedback": {
+            "negative": 15,
+            "positive": 22
+          }
+        },
+        {
+          "id": 2,
+          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
+          "name": "Ali",
+          "title": "لورم ایپسوم یا طرح‌نما ",
+          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
+          "date": "1400-02-15",
+          "hour": "10:52",
+          "feedback": {
+            "negative": 15,
+            "positive": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
+      "name": "Ali",
+      "title": "لورم ایپسوم یا طرح‌نما ",
+      "question_text": "فارش گرفته شده استفاده می نماید، تا از نظر گرافیکی نشانگر چگونگی نوع و اندازه فونت و ظاهر متن باشد. معمولا طراحان گرافیک برای صفحه‌آرایی،",
+      "date": "1400-02-15",
+      "hour": "23:52",
+      "answers": [
+        {
+          "id": 1,
+          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
+          "name": "Ali2",
           "title": "لورم ایپسوم یا طرح‌نما ",
           "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
           "date": "1400-02-15",
@@ -31,81 +105,7 @@
           "date": "1400-02-15",
           "hour": "10:52",
           "feedback": {
-            "negative": 10,
-            "positive": 15
-          }
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
-      "name": "Mohammad",
-      "title": "لورم ایپسوم یا طرح‌نما ",
-      "question_text": "فارش گرفته شده استفاده می نماید، تا از نظر گرافیکی نشانگر چگونگی نوع و اندازه فونت و ظاهر متن باشد. معمولا طراحان گرافیک برای صفحه‌آرایی،",
-      "date": "1401-10-20",
-      "hour": "10:23",
-      "answers": [
-        {
-          "id": 1,
-          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
-          "name": "Ali",
-          "title": "لورم ایپسوم یا طرح‌نما ",
-          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
-          "date": "1400-02-15",
-          "hour": "10:52",
-          "feedback": {
-            "negative": 10,
-            "positive": 15
-          }
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
-      "name": "Afshin",
-      "title": "لورم ایپسوم یا طرح‌نما ",
-      "question_text": "فارش گرفته شده استفاده می نماید، تا از نظر گرافیکی نشانگر چگونگی نوع و اندازه فونت و ظاهر متن باشد. معمولا طراحان گرافیک برای صفحه‌آرایی،",
-      "date": "1400-02-15",
-      "hour": "20:42",
-      "answers": [
-        {
-          "id": 1,
-          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
-          "name": "Ali",
-          "title": "لورم ایپسوم یا طرح‌نما ",
-          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
-          "date": "1400-02-15",
-          "hour": "10:52",
-          "feedback": {
-            "negative": 10,
-            "positive": 15
-          }
-        },
-        {
-          "id": 2,
-          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
-          "name": "Ali",
-          "title": "لورم ایپسوم یا طرح‌نما ",
-          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
-          "date": "1400-02-15",
-          "hour": "10:52",
-          "feedback": {
-            "negative": 10,
-            "positive": 15
-          }
-        },
-        {
-          "id": 3,
-          "image": "https://news-cdn.varzesh3.com/pictures/2022/12/21/A/pxp35lha.jpg?w=450",
-          "name": "Ali",
-          "title": "لورم ایپسوم یا طرح‌نما ",
-          "answer_text": " تا مرحله طراحی و صفحه‌بندی را به پایان برند.",
-          "date": "1400-02-15",
-          "hour": "10:52",
-          "feedback": {
-            "negative": 10,
+            "negative": 11,
             "positive": 15
           }
         }
@@ -129,8 +129,8 @@
           "date": "1400-02-15",
           "hour": "10:52",
           "feedback": {
-            "negative": 10,
-            "positive": 15
+            "negative": 13,
+            "positive": 18
           }
         }
       ]

@@ -14,8 +14,6 @@ const AddQuestionModal: React.FC<AddQuestionModalI> = ({
 
   const onSubmit = async () => {
     setOpen(false);
-    console.log("text", text);
-    console.log("title", title);
     await fetch("http://localhost:3000/questions", {
       method: "POST",
       headers: {

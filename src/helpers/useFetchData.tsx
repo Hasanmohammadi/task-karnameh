@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { QuestionI } from "../interfaces/interfaces";
 
 interface useFetchDataI {
   url: string;
